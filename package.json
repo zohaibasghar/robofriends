@@ -1,0 +1,33 @@
+{
+  "name": "robofriends",
+  "version": "1.0.0",
+  "description": "first react app",
+  "main": "precache-manifest.626a891b9c409d3777c65c342b6e8dec.js",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zohaibasghar/robofriends.git"
+  },
+  "keywords": [
+    "react",
+    "npm",
+    "robo",
+    "friends",
+    "robofriends"
+  ],
+  "author": "zohaib asghar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zohaibasghar/robofriends/issues"
+  },
+  "homepage": "https://github.com/zohaibasghar/robofriends#readme"
+}
